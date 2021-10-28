@@ -25,3 +25,4 @@ qrcode
 tqdm
 tinydb
 PyAudio
+neovim
